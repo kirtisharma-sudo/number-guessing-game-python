@@ -15,6 +15,3 @@ A beginner-friendly Python game where the user guesses a random number.
 ```bash
 python number_guessing_game.py
 
-## 👩‍💻 Author
-**Kirti Sharma**  
-Aspiring Software Developer | Python 🐍
