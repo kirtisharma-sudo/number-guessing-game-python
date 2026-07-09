@@ -5,8 +5,6 @@
 
 ### Number Guessing Game (Python)
 
-## About
-
 This is a simple number guessing game built using Python.
 This project was developed to practice Python fundamentals by building an interactive game.
 The computer randomly selects a number, and the player keeps guessing until the correct number is found. After every guess, the program provides hints indicating whether the guess is too high or too low.
@@ -22,7 +20,7 @@ The computer randomly selects a number, and the player keeps guessing until the 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - random module
